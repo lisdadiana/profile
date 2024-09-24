@@ -2,7 +2,7 @@
 website yang saya buat adalah company profile 
 
 ## Fitur yang tersedia
--halaman awal (landing page)
+*halaman awal (landing page)
 
 
 ## Laravel Sponsors
