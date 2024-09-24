@@ -1,15 +1,30 @@
-## konsep website
+## Konsep website
 website yang saya buat adalah company profile 
 
 ## Fitur yang tersedia
-*halaman awal (landing page)
+halaman awal (landing page)
+    Home
+    About
+    Service
+    Blog
+    Contact
+Authentication
+    Login
+Halaman admin
+    kelola pesan
+    kelola blog
+    kelola about
+    kelola service
+    kelola banner
+    kelola users
+    
 
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
+## Akun default untuk pengujian
+Admin
+    Email:admin1@gmail.com
+    password:1234
+    
+### Erd
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
