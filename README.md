@@ -32,10 +32,10 @@ website yang saya buat adalah company profile
 ![Screenshot (17)](https://github.com/user-attachments/assets/6fd2af3b-2128-4479-9427-481e6a914cf2)
 
 ## Teknologi yang digunakan
--laravel 10
--Bootstrap v5.3.3
+- laravel 10
+- Bootstrap v5.3.3
 
 ## persyaratan untuk melakukan instalasi
--PHP 8.1.0 & Web Server (Apache)
--Database (MySQL)
--Web Browser (Chrome,atau Edge)
+- PHP 8.1.0 & Web Server (Apache)
+- Database (MySQL)
+- Web Browser (Chrome,atau Edge)
