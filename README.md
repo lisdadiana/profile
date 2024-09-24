@@ -3,7 +3,7 @@ website yang saya buat adalah company profile
 
 ## Fitur yang tersedia
 - halaman awal (landing page)
-    Home
+  Home
     About
     Service
     Blog
@@ -29,7 +29,7 @@ website yang saya buat adalah company profile
 
 
 ## UML Diagram
-(https://github.com/user-attachments/assets/6fd2af3b-2128-4479-9427-481e6a914cf2)
+![Screenshot (17)](https://github.com/user-attachments/assets/6fd2af3b-2128-4479-9427-481e6a914cf2)
 
 ## Teknologi yang digunakan
 -laravel 10
