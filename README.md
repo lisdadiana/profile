@@ -3,11 +3,11 @@ website yang saya buat adalah company profile
 
 ## Fitur yang tersedia
 - halaman awal (landing page)
-  ○ Home
-  ○ About
-  ○ Service
-  ○ Blog
-  ○ Contact
+  Home
+  About
+  Service
+  Blog
+  Contact
   
 - Authentication
     Login
@@ -21,7 +21,7 @@ website yang saya buat adalah company profile
     
 
 ## Akun default untuk pengujian
-- **Admin
+- **Admin**
     Email:admin1@gmail.com
     password:1234
     
