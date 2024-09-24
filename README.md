@@ -17,7 +17,6 @@ website yang saya buat adalah company profile
     kelola about
     kelola service
     kelola banner
-    kelola users
     
 
 ## Akun default untuk pengujian
