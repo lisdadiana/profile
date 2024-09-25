@@ -22,8 +22,8 @@ website yang saya buat adalah company profile
 
 ## Akun default untuk pengujian
 - **Admin**
-    Email:admin1@gmail.com
-    password:1234
+    - Email:admin1@gmail.com
+    - password:1234
     
 ### Erd & relasi antar tabel
 ![Screenshot (18)](https://github.com/user-attachments/assets/dfa1e238-b2f7-4802-b220-b860dc5b90ea)
