@@ -3,21 +3,21 @@ website yang saya buat adalah company profile
 
 ## Fitur yang tersedia
 - halaman awal (landing page)
-  Home
-  About
-  Service
-  Blog
-  Contact
+  - Home
+  - About
+  - Service
+  - Blog
+  - Contact
    
   
 - Authentication
-    Login
+    - Login
 - Halaman admin
-    kelola pesan
-    kelola blog
-    kelola about
-    kelola service
-    kelola banner
+    - kelola pesan
+    - kelola blog
+    - kelola about
+    - kelola service
+    - kelola banner
     
 
 ## Akun default untuk pengujian
