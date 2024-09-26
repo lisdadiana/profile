@@ -4,7 +4,6 @@ website yang saya buat adalah company profile
 ## Fitur yang tersedia
 - halaman awal (landing page)
   - Home
-  - About
   - Service
   - Blog
   - Contact
@@ -15,9 +14,7 @@ website yang saya buat adalah company profile
 - Halaman admin
     - kelola pesan
     - kelola blog
-    - kelola about
     - kelola service
-    - kelola banner
     
 
 ## Akun default untuk pengujian
@@ -26,11 +23,11 @@ website yang saya buat adalah company profile
     - password:1234
     
 ### Erd & relasi antar tabel
-![Screenshot (18)](https://github.com/user-attachments/assets/dfa1e238-b2f7-4802-b220-b860dc5b90ea)
+![Screenshot (21)](https://github.com/user-attachments/assets/1ef5b902-5db6-44ca-bcf3-d331c192feba)
 
 
 ## UML Diagram
-![Screenshot (17)](https://github.com/user-attachments/assets/6fd2af3b-2128-4479-9427-481e6a914cf2)
+![Screenshot (22)](https://github.com/user-attachments/assets/e27fcdba-697d-4da9-b7a9-62b545691d41)
 
 ## Teknologi yang digunakan
 - laravel 10
